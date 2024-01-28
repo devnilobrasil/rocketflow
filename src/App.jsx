@@ -1,9 +1,9 @@
-import Hero from "./components/hero";
+import HomePage from "./pages/HomePage"
 
 const App = () => {
     return(
         <div>
-            <Hero />
+            <HomePage />
         </div>
     )
 }

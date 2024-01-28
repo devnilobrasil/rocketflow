@@ -1,9 +1,9 @@
-import './hero.css'
+import './homepage.css'
 import "bootstrap/dist/css/bootstrap.min.css"
-import CustomCard from './customCard'
-import videoNilo from '../../assets/video-nilo.mp4'
-import image3x3 from '../../assets/3x3.jpg'
-import image2x2 from '../../assets/2x2.jpg'
+import CustomCard from '../components/customCard/customCard.jsx'
+import videoNilo from '../assets/video-nilo.mp4'
+import image3x3 from '../assets/3x3.jpg'
+import image2x2 from '../assets/2x2.jpg'
 
 
 const Hero = () => {
